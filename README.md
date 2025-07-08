@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lokimcpuniverse-zoho-crm-mcp-server-badge.png)](https://mseep.ai/app/lokimcpuniverse-zoho-crm-mcp-server)
+
 # Zoho CRM MCP Server
 
 <div align="center">
